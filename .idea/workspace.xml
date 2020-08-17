@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c0d324b-1541-4bb2-a451-9643bfb08f5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/boot2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +42,9 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -68,11 +59,41 @@
       <updated>1597659239891</updated>
       <workItem from="1597659240929" duration="187000" />
       <workItem from="1597659468492" duration="145000" />
-      <workItem from="1597659640282" duration="497000" />
+      <workItem from="1597659640282" duration="5322000" />
     </task>
+    <task id="LOCAL-00001" summary="template set up">
+      <created>1597660234624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597660234624</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="template set up" />
+    <option name="LAST_COMMIT_MESSAGE" value="template set up" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597663057889">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="369" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.792@0.23.1440.792" timestamp="1597663057889" />
+    <state x="89" y="23" key="CommitChangelistDialog2" timestamp="1597660234493">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="89" y="23" key="CommitChangelistDialog2/0.23.1440.801@0.23.1440.801" timestamp="1597660234493" />
+    <state x="112" y="163" key="Vcs.Push.Dialog.v2" timestamp="1597660240786">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="112" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1597660240786" />
+    <state x="310" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597660277505">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="310" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.801@0.23.1440.801" timestamp="1597660277505" />
   </component>
 </project>
